@@ -6,7 +6,7 @@
 #1. Create a list with 9 different numbers inside.
 Numb_List = [10, 20, 30, 40, 50, 60, 70, 80, 90]
 #2. Sort the list from highest to lowest.
-Numb_List.sort()
+Numb_List.sort(reverse=True)
 print(Numb_List)
 #3. Create an empty list.
 Emp_List = []
