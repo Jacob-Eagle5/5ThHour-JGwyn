@@ -8,7 +8,7 @@ import random
 #2. print "Hello World!"
 print("Hello World")
 #3. Create three different variables that each randomly generate an integer between 1 and 10
-Dice_1 = random.randint(1,10)
+Dice_1 = random.randint(1, 10)
 Dice_2 = random.randint(1, 10)
 Dice_3 = random.randint(1, 10)
 #4. Print the three variables from #3 on the same line.
