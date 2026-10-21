@@ -17,12 +17,12 @@
 
 W = int(input("What's your weight in pounds:"))
 H = int(input("What's your height in inches:"))
-print("______________________________")
+print("_______________________________")
 
 BMI_Results = 703 * (W/(H**2))
 
 print(BMI_Results)
-print("______________________________")
+print("_______________________________")
 if BMI_Results < 18.5:
     print("Underweight")
 elif BMI_Results >=18.5 and BMI_Results <=24.9:
